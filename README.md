@@ -29,13 +29,13 @@ List of ready to use features
 * Delete minions
 * Create new million dollar ideas
 * Cancel all meetings scheduled
-
-
-Features to implement
 * Add and remove work (jobs) from minions backlogs
 
+Features to implement
+* All features have been implemented
+
 ## Status
-_in progess_. Missing all features related to minions work backlog.
+_Completed_.
 
 ## Inspiration
 Developed as the project Boss Machine for the Back-end Course on Codecademy.
